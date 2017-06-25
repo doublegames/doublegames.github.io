@@ -166,3 +166,12 @@ form{
 #center{
 	text-align: center;
 }
+
+#btnr{
+	padding: 15px;
+	background: green;
+	width: 100%;
+	height: 50px;
+	color: white;
+	font-size: 15px;
+}
